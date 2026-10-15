@@ -69,7 +69,7 @@ an agent kit for PS2-to-PSP ports (coming).
 
 ## Licence
 
-Free under the PS2RC License 1.0 (see [LICENSE](LICENSE)): use it at no cost; forks must credit SandstoneDev, this repository and the community at https://discord.gg/wV8x46ZTDu in their README. In this repository, "PS2RC" in the licence text means the contents of this repository.
+Free under the PS2RC License 1.1 (see [LICENSE](LICENSE)): use it at no cost; forks must credit SandstoneDev, this repository and the community at https://discord.gg/wV8x46ZTDu in their README. In this repository, "PS2RC" in the licence text means the contents of this repository.
 
 ## Not affiliated
 
