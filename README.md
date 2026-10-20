@@ -62,6 +62,18 @@ source tag, and run `python tests/test_portability.py` before sending a pull req
 
 ## Community and credits
 
+Thanks to:
+
+- **DenielX** ([github.com/DenielX](https://github.com/DenielX/), YouTube
+  [@sp-pteam-indev6976](https://www.youtube.com/@sp-pteam-indev6976)) - for advice during development.
+- **mcidclan** ([github.com/mcidclan](https://github.com/mcidclan)) - PSP Media Engine research: his Media Engine samples
+  (start-up, memory map, spinlock, soft interrupts, DMA) and clock research are sources of the Media Engine and
+  overclocking references.
+- the public sources tagged in `references/` ([NOTICE.md](NOTICE.md)): [pspdev](https://github.com/pspdev),
+  [PPSSPP](https://www.ppsspp.org/), [uOFW](https://github.com/uofw/uofw), [vfpu-docs](https://github.com/pspdev/vfpu-docs),
+  [PSPTEK](http://daifukkat.su/docs/psptek/), Yet Another PSP Documentation and the
+  [ARK custom firmware](https://github.com/PSP-Arkfive/ARK-5) source.
+
 Written by SandstoneDev. Questions, results from other PSP models and new lessons: https://discord.gg/wV8x46ZTDu
 
 Related: PS2RC, a PS2-to-PSP static recompiler (https://github.com/SandstoneDev/PS2RC), and universal-ps2-recompiler,
@@ -69,7 +81,7 @@ an agent kit for PS2-to-PSP ports (coming).
 
 ## Licence
 
-Free under the PS2RC License 1.1 (see [LICENSE](LICENSE)): use it at no cost; forks must credit SandstoneDev, this repository and the community at https://discord.gg/wV8x46ZTDu in their README. In this repository, "PS2RC" in the licence text means the contents of this repository.
+Free under the PS2RC License 1.2 (see [LICENSE](LICENSE)): use it at no cost; forks must credit SandstoneDev, this repository and the community at https://discord.gg/wV8x46ZTDu in their README. In this repository, "PS2RC" in the licence text means the contents of this repository.
 
 ## Not affiliated
 
