@@ -173,6 +173,8 @@ Read the one that matches the current step. Each is self-contained and ends with
 - `references/instrumentation.md` - instrument-first method, mutation testing, hardware A/B design.
 - `references/debug-tools.md` - PSPLink, gdb, PPSSPP's debugger, exception handlers, crash logs.
 - `references/physics-port.md` - porting a commercial-engine-class physics system: sub-steps, collision economics.
+- `references/recompiled-port-lessons.md` - whole-game recompiled ports: verify the clock, drawn vs game frames,
+  profile the drawn frame first, GE-vs-CPU bench, proving natives, card chains and PSPLink runs.
 - `references/porting-pc-codebases.md` - bringing a PC C++ codebase up on the PSP without rewriting it.
 - `references/external-peripherals.md` - which channels (Wi-Fi, USB, remote port) connect a PSP to your own hardware.
 
